@@ -1,1 +1,1 @@
-The crud is  a basic for Learninig Web Development
+The crud is  a basic for Learning Web Development
